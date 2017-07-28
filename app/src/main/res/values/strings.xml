@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">MyInstaFeed</string>
+    <string name="my_access_token">MyAccessToken</string>
+
+    <!-- Sign In -->
+    <string name="sign_in_instagram">Sign me in on Instagram please!</string>
+    <string name="sign_in_error">There was an error. Please try to sign in again.</string>
+    <string name="sign_in_access_token_expired">Your session expired. Please sign in again.</string>
+
+    <!-- User -->
+    <string name="user_hello">Hello %1$s!</string>
+    <string name="user_sing_out">(Sign Out)</string>
+    <string name="user_picture">User Picture</string>
+    <string name="user_posts">%1$s \n Posts</string>
+    <string name="user_following">%1$s \n Following</string>
+    <string name="user_followers">%1$s \n Followers</string>
+
+    <!-- Sign Out -->
+    <string name="sign_out_dialog_title">Sign Out</string>
+    <string name="sign_out_dialog_message">%1$s , are you sure you want to sign out?</string>
+    <string name="sign_out_dialog_confirm">Confirm</string>
+    <string name="sign_out_dialog_dismiss">Dismiss</string>
+    <string name="error">There was an error. Please try again.</string>
+
+</resources>
