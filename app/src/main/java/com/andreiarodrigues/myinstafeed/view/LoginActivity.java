@@ -34,7 +34,7 @@ public class LoginActivity extends AppCompatActivity implements View.OnClickList
     }
 
     private void doInstagramSignIn() {
-        //Checks if user is already logged in or not.
+        //Checks if user is already logged in or not
         if (MyUtils.readAccessToken(this).equals("")) {
             final Uri.Builder uriBuilder = new Uri.Builder();
             uriBuilder.scheme("https")
